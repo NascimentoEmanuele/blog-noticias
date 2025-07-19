@@ -1,3 +1,3 @@
-#projeto blog de noticias
---
-Projeto em andamento 
+# projeto blog de noticias
+
+
